@@ -31,3 +31,7 @@ windows11
 
 QualysCloudAgent.exe CustomerId={94c67a58-01d3-e3ed-81c9-0292a024e30f} ActivationId={b529d82f-b5b6-44dd-a574-30f89a8d0e04} WebServiceUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
 
+
+
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=f3398933-d84f-467f-aecc-e14a92e39ea6 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
