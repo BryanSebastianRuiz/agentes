@@ -30,3 +30,4 @@ sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=2fad37
 windows11
 
 QualysCloudAgent.exe CustomerId={94c67a58-01d3-e3ed-81c9-0292a024e30f} ActivationId={b529d82f-b5b6-44dd-a574-30f89a8d0e04} WebServiceUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
