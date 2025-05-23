@@ -19,3 +19,14 @@ Linux real jejejeje
 sudo dpkg --install QualysCloudAgent.deb 
 
 sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=1fef7280-de32-4c1b-9215-c43fc6afb22c CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=2fad377a-d818-4ae0-ae78-35e1ac52f433 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+----------------------------------------------------------------------
+
+windows11
+
+QualysCloudAgent.exe CustomerId={94c67a58-01d3-e3ed-81c9-0292a024e30f} ActivationId={b529d82f-b5b6-44dd-a574-30f89a8d0e04} WebServiceUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
