@@ -1,0 +1,12 @@
+LINUX
+
+sudo rpm -ivh QualysCloudAgent.rpm 
+
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=ec6d9f9a-ce97-4209-9a3d-2055cbb39670 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+-----------------------------------------------------------------------------------------
+
+WINDOWS
+
+QualysCloudAgent.exe CustomerId={94c67a58-01d3-e3ed-81c9-0292a024e30f} ActivationId={ec6d9f9a-ce97-4209-9a3d-2055cbb39670} WebServiceUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
