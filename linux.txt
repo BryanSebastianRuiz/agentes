@@ -97,3 +97,15 @@ ORACLE
 sudo rpm -ivh QualysCloudAgent.rpm 
 
 sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=7de884f0-7fe2-4a27-bd7e-c0be08d69494 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+
+
+
+
+
+
+
+
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=8de255dd-bc0c-4273-b5ae-50920f5650b8 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
