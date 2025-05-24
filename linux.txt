@@ -62,3 +62,38 @@ sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=a6e620
 
 
 QualysCloudAgent.exe CustomerId={94c67a58-01d3-e3ed-81c9-0292a024e30f} ActivationId={af20f316-7e5d-4199-93bc-c47d27ca0c5d} WebServiceUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QualysCloudAgent.exe CustomerId={94c67a58-01d3-e3ed-81c9-0292a024e30f} ActivationId={a8ad3f16-5c8c-4521-a6e5-ce47598ec6ca} WebServiceUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+
+
+
+
+
+
+
+ORACLE
+
+
+
+
+sudo rpm -ivh QualysCloudAgent.rpm 
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=7de884f0-7fe2-4a27-bd7e-c0be08d69494 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
