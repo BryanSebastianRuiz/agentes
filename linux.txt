@@ -109,3 +109,47 @@ sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=7de884
 
 
 sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=8de255dd-bc0c-4273-b5ae-50920f5650b8 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEBIAN 11
+
+sudo dpkg --install QualysCloudAgent.deb 
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=d4bff162-de04-4ed5-857e-e2709427076e CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
+
+
+
+
+
+
+
+
+
+
+
+
+DEBIAN 10
+
+sudo dpkg --install QualysCloudAgent.deb 
+
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=c48d1d0b-8144-48dd-a65b-a1df45f7d2c1 CustomerId=94c67a58-01d3-e3ed-81c9-0292a024e30f ServerUri=https://qagpublic.qg3.apps.qualys.com/CloudAgent/
